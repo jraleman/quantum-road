@@ -9,7 +9,7 @@
 
 ### Coursera
 
-- [ ] [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers)
+- [ ] [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers) **(Enrolled)**
 - [ ] [Quantum Optics 1 : Single Photons](https://www.coursera.org/learn/quantum-optics-single-photon)
 - [ ] [Quantum Optics 2 : Two photons and more](https://www.coursera.org/learn/quantum-optics-two-photons)
 - [ ] [Particle Physics: an Introduction](https://www.coursera.org/learn/particle-physics)
