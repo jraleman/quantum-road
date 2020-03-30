@@ -23,7 +23,9 @@
 - [x] [Quantum Teleportation: How to Teleport Schrödinger's Cat](https://www.youtube.com/watch?v=DxQK1WDYI_k)
 - [x] [How Quantum Computers Break Encryption | Shor's Algorithm Explained](https://www.youtube.com/watch?v=lvTqbM5Dq4Q)
 - [x] [Why Quantum Information is Never Destroyed](https://www.youtube.com/watch?v=HF-9Dy6iB_4)
-- [x] [The Black Hole Information Paradox](https://www.youtube.com/watch?v=9XkHBmE-N34)
+- [ ] [The Black Hole Information Paradox](https://www.youtube.com/watch?v=9XkHBmE-N34)
+- [ ] [Spacetime, Entropy, and Quantum Information](https://www.youtube.com/watch?v=x3qGycr2uYk)
+- [ ] [Quantum Information Science - Dr. Gerald Gilbert](https://www.youtube.com/watch?v=pJ3kpCLbP38)
 
 ### Haters (with arguments)
 
