@@ -33,4 +33,4 @@
 
 ### Inspirational
 
-- [ ] https://www.youtube.com/watch?v=8qEsLAzPNgU
+- [ ] [Meet a CSIR physicist who specialises in quantum optics](https://www.youtube.com/watch?v=8qEsLAzPNgU)
