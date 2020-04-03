@@ -29,7 +29,7 @@
 
 ### Haters (with arguments)
 
-- [ ] [The Hype Over Quantum Computers, Explained](https://www.youtube.com/watch?v=u1XXjWr5frE)
+- [x] [The Hype Over Quantum Computers, Explained](https://www.youtube.com/watch?v=u1XXjWr5frE)
 
 ### Inspirational
 
