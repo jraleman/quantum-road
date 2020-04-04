@@ -2,8 +2,12 @@
 
 ## Books
 
+- [ ] No-Nonsense Quantum Mechanics: A Student-Friendly Introduction
+- [ ] Quantum Computing for Computer Scientists
 - [ ] Quantum Computing: An Applied Approach
 - [ ] Programming Quantum Computers: Essential Algorithms and Code Samples
+- [ ] Practical Quantum Computing for Developers
+- [ ] Quantum Computation and Quantum Information
 
 ## MOOC
 
