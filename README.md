@@ -8,6 +8,7 @@
 - [ ] Programming Quantum Computers: Essential Algorithms and Code Samples
 - [ ] Practical Quantum Computing for Developers
 - [ ] Quantum Computation and Quantum Information
+- [ ] Single-Molecule Magnets: Molecular Architectures and Building Blocks for Spintronics - by Malgorzata Holynska
 
 ## MOOC
 
