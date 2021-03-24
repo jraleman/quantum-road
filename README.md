@@ -2,7 +2,7 @@
 
 ## Books
 
-- [ ] No-Nonsense Quantum Mechanics: A Student-Friendly Introduction
+- [x] No-Nonsense Quantum Mechanics: A Student-Friendly Introduction
 - [ ] Quantum Computing for Computer Scientists
 - [ ] Quantum Computing: An Applied Approach
 - [ ] Programming Quantum Computers: Essential Algorithms and Code Samples
@@ -14,7 +14,7 @@
 
 ### Coursera
 
-- [ ] [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers) **(Enrolled)**
+- [x] [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers) **(Enrolled)**
 - [ ] [Quantum Optics 1 : Single Photons](https://www.coursera.org/learn/quantum-optics-single-photon)
 - [ ] [Quantum Optics 2 : Two photons and more](https://www.coursera.org/learn/quantum-optics-two-photons)
 - [ ] [Particle Physics: an Introduction](https://www.coursera.org/learn/particle-physics)
@@ -40,3 +40,9 @@
 ### Inspirational
 
 - [x] [Meet a CSIR physicist who specialises in quantum optics](https://www.youtube.com/watch?v=8qEsLAzPNgU)
+
+## Misc
+
+### Quantum related news
+
+- [ ] [Bacteria know how to exploit quantum mechanics, UChicago study finds](https://news.uchicago.edu/story/bacteria-know-how-exploit-quantum-mechanics-uchicago-study-finds)
