@@ -1,5 +1,16 @@
 # Quantum Road
 
+## MOOC
+
+### Coursera
+
+- [x] [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers) **(Completed)**
+- [ ] [Quantum Optics 1 : Single Photons](https://www.coursera.org/learn/quantum-optics-single-photon) **(Enrolled)**
+- [ ] [Quantum Optics 2 : Two photons and more](https://www.coursera.org/learn/quantum-optics-two-photons)
+- [ ] [Particle Physics: an Introduction](https://www.coursera.org/learn/particle-physics)
+- [ ] [Quantum Mechanics](https://www.coursera.org/learn/quantum-mechanics)
+- [ ] [The Introduction to Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms)
+
 ## Books
 
 - [x] No-Nonsense Quantum Mechanics: A Student-Friendly Introduction
@@ -9,17 +20,6 @@
 - [ ] Practical Quantum Computing for Developers
 - [ ] Quantum Computation and Quantum Information
 - [ ] Single-Molecule Magnets: Molecular Architectures and Building Blocks for Spintronics - by Malgorzata Holynska
-
-## MOOC
-
-### Coursera
-
-- [x] [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers) **(Enrolled)**
-- [ ] [Quantum Optics 1 : Single Photons](https://www.coursera.org/learn/quantum-optics-single-photon)
-- [ ] [Quantum Optics 2 : Two photons and more](https://www.coursera.org/learn/quantum-optics-two-photons)
-- [ ] [Particle Physics: an Introduction](https://www.coursera.org/learn/particle-physics)
-- [ ] [Quantum Mechanics](https://www.coursera.org/learn/quantum-mechanics)
-- [ ] [The Introduction to Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms)
 
 ## Videos
 
@@ -32,17 +32,20 @@
 - [ ] [The Black Hole Information Paradox](https://www.youtube.com/watch?v=9XkHBmE-N34)
 - [ ] [Spacetime, Entropy, and Quantum Information](https://www.youtube.com/watch?v=x3qGycr2uYk)
 - [ ] [Quantum Information Science - Dr. Gerald Gilbert](https://www.youtube.com/watch?v=pJ3kpCLbP38)
-
-### Haters (with arguments)
-
 - [x] [The Hype Over Quantum Computers, Explained](https://www.youtube.com/watch?v=u1XXjWr5frE)
 
 ### Inspirational
 
 - [x] [Meet a CSIR physicist who specialises in quantum optics](https://www.youtube.com/watch?v=8qEsLAzPNgU)
 
-## Misc
+## Articles
 
-### Quantum related news
+### General
+
+- [ ] [What Makes Quantum Computing So Hard to Explain?](https://www.quantamagazine.org/why-is-quantum-computing-so-hard-to-explain-20210608/)
+- [ ] [Why Software Developers Are Crucial for Improving Quantum Computers Qiskit](https://medium.com/qiskit/why-software-developers-are-crucial-for-improving-quantum-computers-304b29481d02)
+- [ ] [3 Reasons Quantum Computing is Overrated - Falk Tandetzky](https://medium.com/twodigits/3-reasons-quantum-computing-is-overrated-9d87d11aa248)
+
+### News
 
 - [ ] [Bacteria know how to exploit quantum mechanics, UChicago study finds](https://news.uchicago.edu/story/bacteria-know-how-exploit-quantum-mechanics-uchicago-study-finds)
