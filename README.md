@@ -5,7 +5,8 @@
 ### Coursera
 
 - [x] [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers) **(Completed)**
-- [ ] [Quantum Optics 1 : Single Photons](https://www.coursera.org/learn/quantum-optics-single-photon) **(Enrolled)**
+- [ ] [Foundations of Quantum Mechanics](https://www.coursera.org/learn/foundations-quantum-mechanics) **(Enrolled)**
+- [x] [Quantum Optics 1 : Single Photons](https://www.coursera.org/learn/quantum-optics-single-photon) **(Completed)**
 - [ ] [Quantum Optics 2 : Two photons and more](https://www.coursera.org/learn/quantum-optics-two-photons)
 - [ ] [Particle Physics: an Introduction](https://www.coursera.org/learn/particle-physics)
 - [ ] [Quantum Mechanics](https://www.coursera.org/learn/quantum-mechanics)
@@ -18,7 +19,7 @@
 - [ ] Quantum Computing: An Applied Approach
 - [ ] Programming Quantum Computers: Essential Algorithms and Code Samples
 - [ ] Practical Quantum Computing for Developers
-- [ ] Quantum Computation and Quantum Information
+- [ ] Quantum Computation and Quantum Information **(Currently Reading)**
 - [ ] Single-Molecule Magnets: Molecular Architectures and Building Blocks for Spintronics - by Malgorzata Holynska
 
 ## Videos
